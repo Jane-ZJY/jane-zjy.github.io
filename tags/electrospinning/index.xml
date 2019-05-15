@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Electrospinning on Jingyi Zhang</title>
+    <link>https://jane-zjy.github.io/tags/electrospinning/</link>
+    <description>Recent content in Electrospinning on Jingyi Zhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jane-zjy.github.io/tags/electrospinning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>3D Cardiac Tissue Construction</title>
+      <link>https://jane-zjy.github.io/projects/3Dcardiac/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jane-zjy.github.io/projects/3Dcardiac/</guid>
+      <description>This is the current project I am working on. My ultimate task is to construct 3D cardiac tissue models with biomimetic multi-layer anisotropic structure based on suspended aligned nanofibers. Specifically, from the endocardium to the epicardium, the orientation of fibers is gradually deflected. I have been conducting some experiments to fabricate models, including encasulating layers of nanofibers films with hydrogel. This model can induce cells anisotropic arrangement, maturation and directional beating. Future plan will focus on bio-printing and endotheliazation studies.</description>
+    </item>
+    
+   
+    
+  </channel>
+</rss>
