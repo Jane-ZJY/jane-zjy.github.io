@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Jingyi Zhang</title>
+    <link>https://jane-zjy.github.io/projects/</link>
+    <description>Recent content in Projects on Jingyi Zhang</description>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jane-zjy.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+	   <title>3D Cardiac Tissue Construction</title>
+	   <link>https://jane-zjy.github.io/projects/3Dcardiac/</link>
+	   <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+	   
+	   <guid>https://jane-zjy.github.io/projects/3Dcardiac/</guid>
+	   <description>This is the current project I am working on. My ultimate task is to construct 3D cardiac tissue models with biomimetic multi-layer anisotropic structure based on suspended aligned nanofibers. Specifically, from the endocardium to the epicardium, the orientation of fibers is gradually deflected. I have been conducting some experiments to fabricate models, including encasulating layers of nanofibers films with hydrogel. This model can induce cells anisotropic arrangement, maturation and directional beating. Future plan will focus on bio-printing and endotheliazation studies.</description>
+    </item>
+	
+	<item>
+	   <title>Gradient Hydrogel</title>
+	   <link>https://jane-zjy.github.io/projects/gradientGel/</link>
+	   <pubDate>Fri, 01 March 2019 00:00:00 +0000</pubDate>
+	   
+	   <guid>https://jane-zjy.github.io/projects/gradientGel/</guid>
+       <description>This project is on planning stage. We want to design a continuous gradient hydrogel for inducing kinds of cells ingrowth by time.</description>
+    </item>
+	
+	<item>
+	   <title>Bone Defect Repairl</title>
+	   <link>https://jane-zjy.github.io/projects/bonerep/</link>
+	   <pubDate>Sat, 01 June 2017 00:00:00 +0000</pubDate>
+	   
+	   <guid>https://jane-zjy.github.io/projects/bonerep/</guid>
+  	   <description>This project was to repair 1.5cm bone defect of rabit's radius bone, using 3D composite scaffolds (PLGA/HA nanofiber films wrapping PLGA anti-opal porous scaffolds) which are designed to mimic the different composition and regeneration rate of interior and exterior part of the bone. We achieved 40% bone regeneration after 4weeks, and >90% after 12w, tested by multipical methods.</description>
+    </item>
+	
+	<item>
+	   <title>POCT Stripes for Vascular Inflammation</title>
+	   <link>https://jane-zjy.github.io/projects/POCT/</link>
+	   <pubDate>Thu, 01 May 2017 00:00:00 +0000</pubDate>
+	   
+	   <guid>https://jane-zjy.github.io/projects/POCT/</guid>
+	   <description>This is a National College Inovation Projiect, I worked with two friends in 2016 at my junior year. We developed fluorescence immunochromatography strips co-testing Hcy and hs-CRP for early vascular inflammation diagnosis, based on Sandwich ELISA and Competition ELISA.</description>
+    </item>
+	
+   </channel>
+  </rss>
