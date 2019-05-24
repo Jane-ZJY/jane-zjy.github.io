@@ -6,6 +6,7 @@ figure {
 }
 figure img {
     vertical-align: top;
+	max-width: 100%;
 }
 figcaption {
     font-size: 0.8em;
