@@ -18,7 +18,16 @@
 	   <guid>https://jane-zjy.github.io/projects/3Dcardiac/</guid>
 	   <description>This is the current project I am working on. My ultimate task is to construct 3D cardiac tissue models with biomimetic multi-layer anisotropic structure based on suspended aligned nanofibers. Specifically, from the endocardium to the epicardium, the orientation of fibers is gradually deflected. I have been conducting some experiments to fabricate models, including encasulating layers of nanofibers films with hydrogel. This model can induce cells anisotropic arrangement, maturation and directional beating. Future plan will focus on bio-printing and endotheliazation studies.</description>
     </item>
-	
+
+    <item>
+	   <title>Handheld Printer</title>
+	   <link>https://jane-zjy.github.io/projects/porousGel/</link>
+	   <pubDate>Sat, 01 Sep 2019 00:00:00 +0000</pubDate>
+	   
+	   <guid>https://jane-zjy.github.io/projects/porousGel/</guid>
+	   <description>This project is another current project I am working on, at Harvard Medical School. A self-made handheld printer will be used for skin repair. We use a kind of hydrogel with porous structure fabricating by a novel method to be printed onto the skin damaged area. Sepcifically, the hydrogel has superior properties, such as shape memory, toughness, big porous for good cell growth, etc.</description>
+    </item>
+
 	<item>
 	   <title>Gradient Hydrogel</title>
 	   <link>https://jane-zjy.github.io/projects/gradientGel/</link>
